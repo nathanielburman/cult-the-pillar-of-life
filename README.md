@@ -5,6 +5,10 @@
 
 2. the life can work inside or outside the house.
 
-3. 100 rooms
-4. 1,000,000 rooms
-5. $30,000 / 100 students
+estimates:
+
+ 100 rooms
+ 
+ 1,000,000 rooms
+ 
+ $30,000 / 100 students
